@@ -1,75 +1,52 @@
 .Intro{
     padding-top: 70px;
-    text-align:center;
     color: white;
     height: 250px;
-    width: 100%;
     background-image: url("https://wallpapers.com/images/hd/red-and-black-background-tsx7n87ejbnj3rvt.jpg");
-    background-repeat: no-repeat;
 }
-form,h2,h3,p{
-    text-align:center ;
+h1,h2,h3,p,form{
+    text-align: center;
 }
-
 h1{
     background-color: brown;
 }
 .platform{
-        background-color: grey;
-        display: flex;
-        align-items: center;
-        justify-content: center;
-}
-.first{ 
-    position: absolute;
-    left: 200px;
-}
-.third{
-    position: absolute;
-    right: 100px;
-}
+    background-color: black;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    border: 15px solid brown;
+    padding: 50px;
+    margin: 5px;
 
-.text{
-    background: whitesmoke;
 }
-
+figcaption{
+    background-color: brown;
+    border: 5px solid white;
+}
+.game,.ac,.bb{
+    display: flex;
+    max-width: 100%;
+   
+}
+.sec1,.sec2,#about,#contact,.vention,.project{
+    width: 50%;
+}
 #contact{
-    float: left;
-    background-color: #a1edcc;
-    width: 50%
-}  
-#About{
-    float: right;
-    background-color: #a0e9ed;
-    width: 50%;
-    height:10%;
-    position: relative;
-    padding-bottom: 55px;
-    padding-top: 10px;
+    background-color: rgb(105, 53, 53)
 }
-.vention{
-    font-weight: bolder;
-    float:left;
-    width: 50%;
+#about{
+    background-color:rgb(116, 18, 18);
 }
-.project{
-    float:left;
-    width: 50%;
+.bb{
+    background-color:cadetblue;
 }
-span{
-    color: darkblue;
-}
-.sec2{
-    float: right;
-    width: 50%;
-    height: 10%;
-}
-.sec1{
-    float: left;
-    width: 50%;
-    height: 10%;
-}
-footer{
-    background-color: rgb(206, 152, 206);
-}
+[class*="col-"] {
+    width: 100%;
+  }
+
+
+
+
+
 
