@@ -1,0 +1,13 @@
+Used:
+1.width property
+2.position in css
+3.box-model
+4.flex in css
+5.display property
+
+learnt:
+6.inline,block element
+7.diff b/w internal & external
+8.semantic elements in html
+
+Done everything except responsive design and media query.
