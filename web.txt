@@ -10,4 +10,4 @@ learnt:
 7.diff b/w internal & external
 8.semantic elements in html
 
-Done everything except responsive design and media query.
+Done everything except responsive design.
