@@ -4,10 +4,10 @@ Used:
 3.box-model
 4.flex in css
 5.display property
-
+6.sematic elements
 learnt:
-6.inline,block element
-7.diff b/w internal & external
-8.semantic elements in html
+7.inline,block element
+8.diff b/w internal & external
+
 
 Done everything except responsive design.
